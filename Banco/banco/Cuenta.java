@@ -1,7 +1,7 @@
 
 package banco;
 
-public class Cuenta {
+public class Cuenta { //este es un cambio para hacer un commit
 
 	private String nombre;
 	private String cuenta;
